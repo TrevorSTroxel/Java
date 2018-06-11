@@ -1,3 +1,4 @@
+A list of words that was created with my class in high school for when we coded a word search.
 code
 narf
 snail
@@ -33,7 +34,6 @@ Intense
 Insane
 Overexagerative
 Cancerous
-( ‾ʖ̫‾)
 let's
 get
 all
@@ -118,4 +118,3 @@ killed
 my
 sister
 leroy
-
